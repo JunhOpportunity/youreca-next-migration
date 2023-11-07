@@ -20,3 +20,8 @@ ReactJS -> NextJS 13 마이그레이션 도전입니다.
   b. commit 컨벤션 기반으로 commit 관리
   c. issues 적극 활용
 5. Redux 적용
+
+### 다이어그램
+- Firebase-Firestore 데이터 구조 정리
+
+  ![image](https://github.com/JunhOpportunity/youreca-nextjs-migration/assets/89464762/cd7fb355-af4c-496b-87c8-394d8fcf3464)
